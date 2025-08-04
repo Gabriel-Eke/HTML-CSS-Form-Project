@@ -18,5 +18,4 @@ This is a simple **HTML form project** designed using internal CSS. The form is 
   ## Technologies Used
   - HTML5
   - CSS (internal)
- 
-## File 
+  
